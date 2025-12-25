@@ -1,6 +1,11 @@
 body {
   text-align: center;
   background-color: #283149;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+
 }
 
 h1 {
